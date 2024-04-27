@@ -15,7 +15,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="certificado_Ingles NIVEL A1" />
+              <option name="title_text" value="certificado_Ingles NIVEL A1 fecha" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1640,6 +1640,7 @@
             <slidelink slideid="_player.6B3CHc75SGU.6XZxFJzxOQG" displaytext="Type name" expand="false" type="slide" />
             <slidelink slideid="_player.6B3CHc75SGU.6U9exECVJos" displaytext="Type name" expand="false" type="slide" />
             <slidelink slideid="_player.6B3CHc75SGU.6JQpD4xcBp0" displaytext="Certificate" expand="false" type="slide" />
+            <slidelink slideid="_player.6B3CHc75SGU.6eY7ZsMVmIF" displaytext="Certificate" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
